@@ -3,8 +3,8 @@ local modpath = minetest.get_modpath(modname)
 local S = minetest.get_translator(modname)
 
 name_monoid = {
-	version = os.time({year = 2022, month = 5, day = 22}),
-	fork = "fluxionary",
+	version = os.time({year = 2023, month = 5, day = 16}),
+	fork = "insanity54",
 
 	modname = modname,
 	modpath = modpath,
